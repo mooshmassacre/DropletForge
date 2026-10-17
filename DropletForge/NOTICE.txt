@@ -1,0 +1,6 @@
+DropletForge 1.0
+SPDX-License-Identifier: GPL-2.0-or-later
+
+This software is distributed under the GNU General Public License,
+version 2 or, at your option, any later version.
+Provided without warranty. See LICENSE.txt for the full license terms.
